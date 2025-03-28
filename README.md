@@ -5,4 +5,4 @@ Creational patterns
 
 - [X] Builder
 - [X] Singleton
-- [] Factory Method
+- [ ] Factory Method
