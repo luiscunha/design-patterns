@@ -1,6 +1,8 @@
 # design-patterns
-Repository for design patterns examples.
+Repository containing examples of design patterns.
 
 Creational patterns
 
-- Builder
+[X] Builder
+[X] Singleton
+[] Factory Method
