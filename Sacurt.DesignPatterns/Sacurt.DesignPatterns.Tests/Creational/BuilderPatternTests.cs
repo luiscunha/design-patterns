@@ -1,6 +1,6 @@
 ﻿using Sacurt.DesignPatterns.Creational.Builder;
 
-namespace Sacurt.DesignPatterns.Tests;
+namespace Sacurt.DesignPatterns.Tests.Creational;
 
 public class BuilderPatternTests
 {
