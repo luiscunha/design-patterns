@@ -6,3 +6,7 @@ Creational patterns
 - [X] Builder
 - [X] Singleton
 - [X] Factory Method
+
+Structural patterns
+
+- [X] Decorator
